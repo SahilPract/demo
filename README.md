@@ -1,3 +1,3 @@
 # demo
-first git repo
-Sahil Jambhulkar
+first git repo <br>
+Author - Sahil Jambhulkar
